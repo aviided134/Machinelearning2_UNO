@@ -1,3 +1,4 @@
+#small changes in this program
 import random 
 import math
 
