@@ -1,4 +1,5 @@
 import random
+# this is the 1st change in the program
 def neighborhood(binary_string)                             # neighbor function
     list_a = list(binary_string)
     main_flipped = []
